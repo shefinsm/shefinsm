@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @shefinsm
+- 👀 I’m interested in ui / frontend development
+- 🌱 I’m currently learning react js
+- 📫 How to reach me : mail.to.shefz@gmail.com
+- 💻 Has an year of experience
